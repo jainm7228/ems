@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-  color:#fff;
+* {
+  color: #fff;
 }
 
-body{
+body {
   background-color: #111;
 }
